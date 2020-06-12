@@ -1,2 +1,2 @@
 # Data-Science-Projects
-Meng's first repository
+## Lending Club Data EDA
